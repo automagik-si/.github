@@ -21,4 +21,8 @@ The banner and the avatar carry the approved logo, placed from these files of th
 | `banner-dark.webp` | `automagik-lockup-three-colours-cream-header.svg` | `e8dd0d21e42d7b2722386738972d46432f083895fb2bf00a990ee7588d3561f7` |
 | `avatar.png`, `avatar-dark.png` | `triskle-three-colours.svg` | `bc9fd54124f5d3cfdd0461c5ab6ac6860254c14bfdedf46a11cc5ca433e01a72` |
 
-A newer logo set means rendering these four images again; the README does not change.
+The Desktop tile (`block-desktop-light.png`, `block-desktop-dark.png`) shows the app's icon, the
+three-colour triskle on its ink ground: `apps/desktop/assets/icon.png` of the repository above
+(sha256 `1957f509f46845997d5aca8819d7d70911f3d659a260d237ab84e2c790067a3d`).
+
+A newer logo set or app icon means rendering these images again; the README does not change.
