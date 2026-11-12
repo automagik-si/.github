@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./art/banner-dark.webp">
     <source media="(prefers-color-scheme: light)" srcset="./art/banner-light.webp">
-    <img src="./art/banner-light.webp" width="1280" alt="Automagik: open building blocks of superintelligence. Genie and Omni, Automagik's clay characters, stand on a soft gradient stage beside the Automagik mark.">
+    <img src="./art/banner-light.webp" width="1280" alt="Automagik: open building blocks of superintelligence. Genie and Omni, Automagik's clay characters, stand on a soft gradient stage beside the Automagik logo: the three-colour triskle and the name in lowercase.">
   </picture>
 </p>
 
