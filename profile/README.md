@@ -1,20 +1,21 @@
-The dev org of [Namastex Labs](https://github.com/namastexlabs). This is where the tools live.
+# Automagik
 
-CLI agents, omnichannel infra, workspace automation. Everything runs locally, everything is open source.
+**Open building blocks of superintelligence.**
 
----
+Use one, or bring them together. Each block puts your own agents to work, on your own machines.
 
-### Repos
-
-| | |
+| Block | What it does |
 |---|---|
-| [**Genie**](https://github.com/automagik-dev/genie) | Wishes in, PRs out. CLI agent orchestrator — interviews you, plans the work, dispatches parallel agents in isolated worktrees, reviews code before you see it. |
-| [**Omni**](https://github.com/automagik-dev/omni) | Universal omnichannel for AI agents. WhatsApp, Discord, Telegram, Slack — one API, one event stream, automations built in. |
-| [**Workit**](https://github.com/automagik-dev/workit) | Google Workspace CLI for AI agents. Headless OAuth, Drive sync, Gmail, Calendar, Docs, Sheets — all from the terminal. |
-| [**Forge**](https://github.com/automagik-dev/forge) | *Retired.* UI for humans to watch AI code step-by-step. Models got reliable enough — CLI orchestrates now, humans review output. |
+| [**Automagik Desktop**](https://github.com/automagik-si/automagik) | Your agent team, in your chats. Talk to it, hand work over, review what comes back. Mac and Linux. |
+| [**Automagik Mobile**](https://github.com/automagik-si/automagik/tree/dev/apps/pocket) | Your coding agents on your Android phone, paired to your own machines. |
+| [**Genie**](https://github.com/automagik-si/genie) | Turn a wish into a branch, a test run and a report you approve. |
+| [**Omni**](https://github.com/automagik-si/omni) | Connect WhatsApp, Telegram, Slack and Discord to your agents. |
+| [**Arca**](https://github.com/automagik-si/arca) | Be your own cloud. Infrastructure for AI agents. |
+| **Cloud** | One sign-in, organisations and hosted workspaces. Coming soon. |
+| **Mykes** | Coming soon. |
+
+Free and open source under Apache-2.0. Docs: [docs.automagik.dev](https://docs.automagik.dev)
 
 ---
 
-Built by builders, for builders. No UIs where a CLI will do. No cloud where localhost works.
-
-[namastex.ai](https://namastex.ai) · [Namastex Labs](https://github.com/namastexlabs)
+Part of [we unfold](https://weunfold.ai) · Open Intelligence
